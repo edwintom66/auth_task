@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce549336.chunk.css",
+    "main.js": "/static/js/main.b24a2235.chunk.js",
+    "main.js.map": "/static/js/main.b24a2235.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8125cb69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8125cb69.js.map",
+    "static/js/2.34dec19a.chunk.js": "/static/js/2.34dec19a.chunk.js",
+    "static/js/2.34dec19a.chunk.js.map": "/static/js/2.34dec19a.chunk.js.map",
+    "static/js/3.ff34285c.chunk.js": "/static/js/3.ff34285c.chunk.js",
+    "static/js/3.ff34285c.chunk.js.map": "/static/js/3.ff34285c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ce549336.chunk.css.map": "/static/css/main.ce549336.chunk.css.map",
+    "static/js/2.34dec19a.chunk.js.LICENSE.txt": "/static/js/2.34dec19a.chunk.js.LICENSE.txt",
+    "static/media/Green-Check.730fdaab.png": "/static/media/Green-Check.730fdaab.png",
+    "static/media/flag.63e09fa5.jpg": "/static/media/flag.63e09fa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8125cb69.js",
+    "static/js/2.34dec19a.chunk.js",
+    "static/css/main.ce549336.chunk.css",
+    "static/js/main.b24a2235.chunk.js"
+  ]
+}
